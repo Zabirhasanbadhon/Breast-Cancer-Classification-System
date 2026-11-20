@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+
+# local data created while using the app
+database/*.db
+reports/*
+!reports/.gitkeep
