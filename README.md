@@ -331,6 +331,14 @@ The system uses generated record IDs and does not store personal data.
 
 ---
 
+## 👨‍💻 Developer
+
+**ZaBir HaSan**
+
+🌐 **Website:** https://www.zabirhasan.com
+
+---
+
 <p align="center">
   <strong>🎗️ Breast Cancer Classification System</strong><br/>
   Built with Python, Tkinter, and Machine Learning.
